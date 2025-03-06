@@ -7,7 +7,7 @@ I am a student of electrical engineering at the FH Aachen. I like to work with m
 - 🌱 I’m currently learning Webdevelopment technologies like HTML, CSS, JavaScript and Angular
 - 💬 Ask me about all about electronics especially microcontroller programming. Feel free to ask any question.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Combining electronics and programming if wonderful.
+- ⚡ Fun fact: Combining electronics and programming is wonderful.
 
 # Links
 - [FH Aachen - FB5](https://www.fh-aachen.de/fachbereiche/elektrotechnik-und-informationstechnik/)
